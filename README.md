@@ -27,5 +27,5 @@ using Python and TensorFlow/Keras.
 - Neural Networks
 
 ## Author
-Mohammed Mehran — BSc AI Student, Mumbai
+Mohammed Mehran BSc AI Student, Mumbai
 GitHub: https://github.com/Merhan-AI
