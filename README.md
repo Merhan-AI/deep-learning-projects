@@ -5,7 +5,7 @@ using Python and TensorFlow/Keras.
 
 ## Projects
 
-# 1. Pass/Fail Prediction :- Neural Network
+### 1. Pass/Fail Prediction :- Neural Network
 - Predicts whether a student passes or fails
 - Based on hours of study
 - Built using a 3-layer neural network
