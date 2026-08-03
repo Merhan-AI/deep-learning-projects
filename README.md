@@ -1,4 +1,5 @@
-## Deep Learning Projects 🧠
+
+# Deep Learning Projects 🧠
 
 Neural Network projects built from scratch 
 using Python and TensorFlow/Keras.
