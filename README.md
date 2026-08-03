@@ -5,6 +5,7 @@ Neural Network projects built from scratch
 using Python and TensorFlow/Keras.
 
 Should I use TensorFlow or Pytorch Suggest me
+I am using TensorFlow for now, but I would also like to try Pytorch
 
 
 ## Projects
